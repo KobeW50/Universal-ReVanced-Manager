@@ -78,7 +78,7 @@ Universal ReVanced Manager includes powerful features that the official ReVanced
 ### 🎨 Appearance & Theming
 - 🎯 **Accent Color Picker**: Appearance settings include an accent color picker so you can choose a custom theme color. This is in addition to Material You theming and the pure black theme
 - ⚫ **Monochrome App Icons**: Support for Android monochrome icons
-- 🎛️ **Theme Color Pickers**: Teme color pickers with a live preview, plus manual HEX input for both accent and theme colors
+- 🎛️ **Theme Color Pickers**: Theme color pickers with a live preview, plus manual HEX input for both accent and theme colors
 - ↔️ **Better Long Names**: Long labels use horizontal swipe instead of auto-sliding or wrapping
 
 ### 🌐 Network & Updates
